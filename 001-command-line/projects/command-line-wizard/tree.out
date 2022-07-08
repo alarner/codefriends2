@@ -1,0 +1,10 @@
+(base) ~/codefriends: tree
+.
+├── 001-command-line
+│   ├── notes.md
+│   └── projects
+│       └── command-line-wizard
+└── 002-git-introduction
+    └── notes.md
+
+4 directories, 2 files
